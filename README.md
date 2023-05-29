@@ -1,2 +1,2 @@
 # lets-play-DARTs
-lets-play-DARTs
+Learning to use Git and GitHub
